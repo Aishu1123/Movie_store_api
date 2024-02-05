@@ -1,4 +1,4 @@
-### Movie Store API
+## Movie Store API
 
 -Take help from IMDB and create entire Movie store api in express + mongoose
 -The objective is to support all 4 CRUD operation, but specifically multiple types of get operations
